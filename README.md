@@ -17,9 +17,9 @@
 
 <p align="left">Soy Leonardo Correa, pero prefiero que me llamen Aztharot en el mundo del desarrollo. A mis 18 años, estoy dando mis primeros pasos en el mundo de la programación y la ciberseguridad con una pasión ardiente por convertirme en uno de los mejores programadores y hackers éticos.</p>
 
-<p align="left">Mi enfoque principal es convertirme en un desarrollador Full Stack con un fuerte énfasis en la ciberseguridad. Creo firmemente que la combinación de estas habilidades me permitirá crear soluciones innovadoras y seguras para los desafíos del mundo digital.</p>
-
 <h2 align="left">Especialización</h2>
+
+<p align="left">Mi enfoque principal es convertirme en un desarrollador Full Stack con un fuerte énfasis en la ciberseguridad. Creo firmemente que la combinación de estas habilidades me permitirá crear soluciones innovadoras y seguras para los desafíos del mundo digital.</p>
 
 <h2 align="left">Tecnologías Favoritas</h2>
 
