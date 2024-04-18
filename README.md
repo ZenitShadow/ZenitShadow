@@ -68,6 +68,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
 </div>
+<hr><br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ZenitShadow/count.svg?"  />
