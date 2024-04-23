@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqb1xo1zuE1gU5bOxhU-CK1C-MEt8qzsvbg&s"  />
-</div>
-
 <br clear="both">
 
 <div align="center">
